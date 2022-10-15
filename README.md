@@ -10,7 +10,7 @@
 - 👨🏽‍💻 I’m currently working on some things and moderating Discord Servers.
 - 🌱 I’m currently learning some new things like Python.
 - 💬 If you have any question, feel free to ask them!
-- 📫 Contact me at [noname.discord@protonmail.com](mailto:noname.discord@protonmail.com) or Discord - Noname / ノナメ#5221.
+- 📫 Contact me at [noname.discord@protonmail.com](mailto:noname.discord@protonmail.com) or Discord - [Noname / ノナメ](https://discord.com/users/515404778021322773).
 
 <br />
 

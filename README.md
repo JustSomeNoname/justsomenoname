@@ -3,7 +3,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/avatars/515404778021322773/a_61a943f8f51916f8851936f6e224a0d2?size=256" />
+  <img align="right" width=256 alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
 
 **About Me!**
 

@@ -20,7 +20,7 @@
 
 -----
 <b>Servers I moderate on:</b>
-[Amar](https://discord.com/servers/amar-444141193022930944) • [Rocketment](https://discord.com/invite/rocketment) • [e.bio](https://discord.com/servers/e-bio-913922450205585439)
+[Amar](https://discord.com/servers/amar-444141193022930944) • [Rocketment](https://discord.com/invite/rocketment) • [Moderatoren HQ](https://discord.gg/modhq)
 <br />
 <b>Servers I like:</b>
 [Anime & Gaming Café](https://animegamingcafe.de/) • [Reisender Collective](https://discord.com/invite/729qxEBEXF)

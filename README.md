@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Noname!</h2>
+<h2 title="hehehe"> Hey 👋, I'm Brian!</h2>
 <br />
 <br />
 
@@ -10,7 +10,7 @@
 - 👨🏽‍💻 I’m currently working on some things and moderating Discord Servers.
 - 🌱 I’m currently learning some new things like Python.
 - 💬 If you have any question, feel free to ask them!
-- 📫 Contact me at [noname.discord@protonmail.com](mailto:noname.discord@protonmail.com) or Discord - [Noname / ノナメ](https://discord.com/users/515404778021322773).
+- 📫 Contact me at [noname.discord@protonmail.com](mailto:noname.discord@protonmail.com) or Discord - [justabrian](https://discord.com/users/515404778021322773).
 
 <br />
 
@@ -20,7 +20,7 @@
 
 -----
 <b>Servers I moderate on:</b>
-[Amar](https://discord.com/servers/amar-444141193022930944) • [Rocketment](https://discord.com/invite/rocketment) • [Moderatoren HQ](https://discord.gg/modhq)
+[Amar](https://discord.com/servers/amar-444141193022930944) • [Diablo 4](https://discord.com/invite/diablo4) • [Moderatoren HQ](https://discord.gg/modhq)
 <br />
-<b>Servers I like:</b>
+<b>Servers I support:</b>
 [Anime & Gaming Café](https://animegamingcafe.de/) • [Reisender Collective](https://discord.com/invite/729qxEBEXF)

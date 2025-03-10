@@ -15,8 +15,6 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=justsomenoname&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JustSomeNoname's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justsomenoname&count_private=true&theme=radical" alt="JustSomeNoname" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsomenoname&count_private=true&theme=radical" alt="JustSomeNoname" />
+<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JustSomeNoanme&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)" />
 
 -----
